@@ -1,2 +1,4 @@
 # woocommerce-plugin
 files needed for project
+
+So what would be the best is a plugin for Wordpress that would take any of the three types of files (from three different companies), convert them into the WooCommerce format and then automatically submit it to WooCommerce to be processed and update the product database.  If that is not possible for you and you can give me a good price would be to create a form that allows the user to select one of the three vendors to determine format from a select list and a file upload field to attache the file.  The code should then pull the necessary fields from a CSV file and generate a new CSV file that has the proper format for WooCommerce to ingest in the update inventory function of WooCommerce and that file should be downloaded so the user can then upload it to the site and update the inventory or add new products, remove discontinued products.
